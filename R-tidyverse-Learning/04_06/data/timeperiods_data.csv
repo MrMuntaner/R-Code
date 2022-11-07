@@ -1,0 +1,7 @@
+period.start,period.end,period.name
+1800-01-01,1870-01-01,Pre-unification
+1871-01-01,1913-01-01,Post German unification
+1914-01-01,1918-01-01,First World War
+1919-01-01,1938-01-01,Inter-war period
+1939-01-01,1945-01-01,Second World War
+1945-01-01,2000-01-01,Post Second World War

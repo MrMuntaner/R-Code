@@ -1,0 +1,24 @@
+{
+    "id": "FD736310",
+    "path": "~/R-Learning/Building-data-apps-shiny/01_04/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "1311129746",
+    "contents": "",
+    "dirty": false,
+    "created": 1661865023742.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1555321074,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1555321074,
+    "read_only": false,
+    "read_only_alternatives": []
+}
